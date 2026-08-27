@@ -1,0 +1,9 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tevexxo logo</title>
+  <desc id="desc">Orange Tevexxo symbol inside a thin circular outline</desc>
+  <circle cx="80" cy="80" r="79.25" stroke="#E5E7EB" stroke-width="1.5"/>
+  <path d="M35 16H154C158.418 16 162 19.582 162 24V151.5C162 157.464 154.787 160.304 150.778 155.886L130.098 133.099C126.876 129.548 126.888 124.14 130.125 120.603L143.04 106.49C145.326 103.992 143.553 100 140.167 100C139.02 100 137.93 100.489 137.166 101.344L84.913 159.755C81.361 163.726 74.978 159.504 77.849 155.018L130.166 91.508C132.627 88.52 128.297 84.886 125.762 87.812L55.497 158.543C51.891 162.175 45.936 157.694 48.864 153.493L118.547 62.073C120.807 59.106 116.562 55.465 113.979 58.346L27.613 105.72C23.244 109.286 17.56 103.72 21.028 99.273L60.194 62.053C61.623 60.694 61.623 58.433 60.194 57.074L29.308 26.983C25.35 23.126 28.082 16 35 16Z" fill="#FF5A00"/>
+  <path d="M29.5 106.5L90.5 50" stroke="#FF5A00" stroke-width="14" stroke-linecap="round"/>
+  <path d="M55.5 111.5L116.5 55.5" stroke="#FF5A00" stroke-width="14" stroke-linecap="round"/>
+  <path d="M78 134L139 78" stroke="#FF5A00" stroke-width="14" stroke-linecap="round"/>
+</svg>
