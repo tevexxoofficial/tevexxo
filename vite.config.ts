@@ -5,7 +5,7 @@ export default defineConfig({
     host: "::",
     port: 8080,
     strictPort: true,
-    allowedHosts: true,
+    allowedHosts: ["tevexxo-1.onrender.com"],
   },
 
   tanstackStart: {
